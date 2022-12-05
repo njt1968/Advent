@@ -1,4 +1,4 @@
-use std::fs::{read, File};
+use std::fs::{File};
 use std::io::{prelude::*, BufReader};
 use Choice::*;
 use Outcome::*;
